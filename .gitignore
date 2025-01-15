@@ -3,3 +3,5 @@ cancelamentos.csv
 *.csv
 *.ipynb_checkpoints
 cancelamentos_sample.csv
+new_python_insights/
+
