@@ -6,3 +6,6 @@ cancelamentos.csv
 
 # Ignorar todos os arquivos com extensão .csv
 *.csv
+
+*.ipynb_checkpoints
+
