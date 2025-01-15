@@ -1,12 +1,5 @@
-# Ignorar o arquivo específico cancelamentos.csv
 cancelamentos.csv
-
-# Ignorar todos os arquivos com extensão .log
 *.log
-
-# Ignorar todos os arquivos com extensão .csv
 *.csv
-
 *.ipynb_checkpoints
-
 cancelamentos_sample.csv
