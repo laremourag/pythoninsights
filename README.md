@@ -1,3 +1,7 @@
+
+## ⚠️ Dados Originais
+O arquivo `cancelamentos.csv` não está incluído devido ao tamanho. Para replicar o projeto, utilize um dataset próprio ou solicite a base de dados original.
+
 Análise de Cancelamento de Clientes com Python 📊
 
 Este projeto visa analisar os cancelamentos de clientes utilizando Python, com o objetivo de identificar as principais causas de cancelamento e sugerir possíveis ações de melhoria. Foram desenvolvidos gráficos e dashboards para facilitar a visualização das tendências e interpretação dos dados.
@@ -88,8 +92,4 @@ Ampliar o estudo para incluir fatores externos, como sazonalidade e região geog
 🙏 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
-
-🔒 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
